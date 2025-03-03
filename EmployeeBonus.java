@@ -16,7 +16,5 @@ public class EmployeeBonus {
         } else {
             System.out.println("No bonus awarded.");
         }
-
-        scanner.close();
     }
 }
